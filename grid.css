@@ -1,0 +1,30 @@
+body{
+	text-align: center;
+}
+
+table{
+	margin: auto;
+}
+
+div {
+  border: 1px solid black;
+  width: 30px;
+  height: 30px;
+  margin: auto;
+}
+
+.black{
+  background: black;
+}
+
+#button{
+  display: inline-block;
+  font-family: Arial;
+  font-size: 40px;
+  width: 100px;
+  height: 50px;
+  cursor: pointer;
+  border-radius: 10%;
+  background: lightblue;
+  border: 1px solid black;
+}
